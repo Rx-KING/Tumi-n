@@ -4,4 +4,4 @@ git clone https://github.com/Rx-KING/Tumi-n
 
 cd Tumi-n
 
-python max.py 
+python max.cpython-310
